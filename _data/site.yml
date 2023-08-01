@@ -42,15 +42,12 @@ comment:
   # livere config
   livere_type: 'city'
   livere_data_uid: ''
-  # gitment config
-  owner: ""
-  repo: ""
-  client_id: ""
-  client_secret: ""
   #valine config
   valine_app_id: ''
   valine_app_key: ''
   valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+  #twikoo config
+  twikoo_env: '' #腾讯云环境填 envId（只支持ap-shanghai）；Vercel 环境填地址（https://xxx.vercel.app）
 
 prism:
   themes: prism-okaidia
